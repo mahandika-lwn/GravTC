@@ -1,8 +1,10 @@
 # GravTC
-Catatan untuk perangkat lunak GravTC
-Gravity Tidal Correction v1.2
-Download seluruh file pada directory ini
-Jadikan dalam satu folder
-Jalankan file aplikasi bereksistensi .exe
+Catatan untuk perangkat lunak GravTC:<br>
+"Gravity Tidal Correction v1.2"
 
-Credit & Special Thanks: https://github.com/adienakhmad/Grav-TC
+1. Download seluruh file pada directory ini
+2. Jadikan dalam satu folder
+3. Jalankan file aplikasi bereksistensi .exe
+
+Credit dan tutorial lengkap:<br>
+https://github.com/adienakhmad/Grav-TC
